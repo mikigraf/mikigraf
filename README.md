@@ -22,7 +22,6 @@ I think in products, not tickets — hackathons taught me to ship fast, regulate
 | 🏃 **[360 Health & Performance](https://apps.apple.com/au/app/360-health-performance/id6502862349)** | Full app rewrite + AI coaching agent with hybrid GenAI/ML. HRV analysis from Polar wearables. Used by PGA Tour & Premier League athletes. |
 | 🎮 **[AutoSellPlus](https://github.com/mikigraf/AutoSellPlus)** | WoW addon for mass-selling low ilvl gear. Because you build what your guild needs first. |
 | 🗣️ **getConvo.ai** | Voice AI for market research — sub-600ms voice-to-voice, 5K+ users in 3 months, Knowledge Graphs + RAG cutting hallucinations by 35%. |
-| 🎯 **The Marcom Engine (ServicePlan)** | AI agents on AWS Serverless automating compliance & creative pipelines for one of Europe's largest agency groups. |
 
 ### Beyond code
 
